@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Journey to become a Data Engineer"
+title                    : "My Journey to Data Engineering"
 title_separator          : "-"
 name                     : "Haris Abdul Razak"
 description              : "You will find all my works I have done during my journey to become a Data Engineer"
@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Haris Abdul Razak"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Engineer Portfolio"
+  bio              : "Find all my Data Engineering works here"
   location         : "United Arab Emirates"
   email            : "harista.90@gmail.com"
   links:
