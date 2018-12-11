@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Haris Abdul Razak"
-  avatar           : "/images/Bio-Pic.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/Bio-Pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Find all my Data Engineering works here"
   location         : "United Arab Emirates"
   email            : "harista.90@gmail.com"
